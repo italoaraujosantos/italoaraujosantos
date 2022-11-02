@@ -7,4 +7,6 @@
 - Engenharia de Confiabilidade Site
 - Consultoria em Tecnologia da Informação
 - Desenvolvimento Frontend
-- Suporte Técnico 
+- Suporte Técnico
+- Por hobbie, Manuteção e montagem de microcomputadores
+ 
