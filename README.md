@@ -9,11 +9,11 @@ Me considero uma pessoa bem atualizada e curiosa, por isso estou sempre atento a
 Computing e outras três de Chaos Engineering (AWS /Gremlin).
 Sei atuar com aqueles que não entendem a respeito da área, por isso tenho a capacidade de transmitir conceitos técnicos complexos em linguagem compreensível. Isso faz com que eu consiga
 lidar com todos os níveis hierárquicos e pessoas de outras áreas.
-Principais certificações obtidas:
- AWS Certified Cloud Practitioner
- Gremlin Certified Chaos Engineering Practitioner
- Gremlin Certified Chaos Engineering Professional
- Gremlin Enterprise Chaos Enginering Certifield
+Principais certificações obtidas: <br>
+ AWS Certified Cloud Practitioner <br>
+ Gremlin Certified Chaos Engineering Practitioner <br>
+ Gremlin Certified Chaos Engineering Professional <br>
+ Gremlin Enterprise Chaos Enginering Certifield <br>
 
 ## Atuação em:
 - Engenharia de Confiabilidade de Site
