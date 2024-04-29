@@ -2,7 +2,18 @@
 ## Meu nome é Ítalo Araujo
 
 ## Perfil profissional
-*Bacharel em Ciência da Computação pela Universidade Católica de Brasília (2021) e Técnico em Informática pela Escola Técnica de Brasília (2008). Atuei em suporte técnico desde o periodo do curso técnico até 2020, passando por desenlvolmento frontend em 2022 e atualmente trabalhando com Engenharia de confiabilidade.*
+*Me chamo Ítalo Araújo Chaves, formado em Ciência da Computação, e hoje atuando como Engenheiro de Confialibilidade de Site. Possuo mais de 12 anos na área de Tecnologia da
+Informação, tendo atuado em Organizações Não Govertamentais (ONG), empresas da área Paraestatal, Financeira e Multinacionais. Por ter esse background tão diverso posso contribuir de
+várias formas para a evolução da empresa.
+Me considero uma pessoa bem atualizada e curiosa, por isso estou sempre atento ao mundo de novas tecnologias, o que fez com que eu obtivesse quatro certificações, sendo uma de Cloud
+Computing e outras três de Chaos Engineering (AWS /Gremlin).
+Sei atuar com aqueles que não entendem a respeito da área, por isso tenho a capacidade de transmitir conceitos técnicos complexos em linguagem compreensível. Isso faz com que eu consiga
+lidar com todos os níveis hierárquicos e pessoas de outras áreas.
+Principais certificações obtidas:
+ AWS Certified Cloud Practitioner
+ Gremlin Certified Chaos Engineering Practitioner
+ Gremlin Certified Chaos Engineering Professional
+ Gremlin Enterprise Chaos Enginering Certifield
 
 ## Atuação em:
 - Engenharia de Confiabilidade de Site
