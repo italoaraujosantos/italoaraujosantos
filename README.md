@@ -4,11 +4,11 @@
 ## Perfil profissional
 *Me chamo Ítalo Araújo Chaves, formado em Ciência da Computação, e hoje atuando como Engenheiro de Confialibilidade de Site. Possuo mais de 12 anos na área de Tecnologia da
 Informação, tendo atuado em Organizações Não Govertamentais (ONG), empresas da área Paraestatal, Financeira e Multinacionais. Por ter esse background tão diverso posso contribuir de
-várias formas para a evolução da empresa.
+várias formas para a evolução da empresa. <br>
 Me considero uma pessoa bem atualizada e curiosa, por isso estou sempre atento ao mundo de novas tecnologias, o que fez com que eu obtivesse quatro certificações, sendo uma de Cloud
-Computing e outras três de Chaos Engineering (AWS /Gremlin).
+Computing e outras três de Chaos Engineering (AWS /Gremlin). <br>
 Sei atuar com aqueles que não entendem a respeito da área, por isso tenho a capacidade de transmitir conceitos técnicos complexos em linguagem compreensível. Isso faz com que eu consiga
-lidar com todos os níveis hierárquicos e pessoas de outras áreas.
+lidar com todos os níveis hierárquicos e pessoas de outras áreas. <br>
 Principais certificações obtidas: <br>
  AWS Certified Cloud Practitioner <br>
  Gremlin Certified Chaos Engineering Practitioner <br>
