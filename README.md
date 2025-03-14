@@ -16,6 +16,7 @@ Principais certificações obtidas: <br>
  Gremlin Enterprise Chaos Enginering Certifield <br>
 
 ## Atuação em:
+- Desenvolvimento Fullstack ANGULAR / Java
 - Engenharia de Confiabilidade de Site
 - Consultoria em Tecnologia da Informação
 - Desenvolvimento Frontend
