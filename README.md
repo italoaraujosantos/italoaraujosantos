@@ -19,7 +19,6 @@ Principais certificações obtidas: <br>
 - Desenvolvimento Fullstack ANGULAR / Java
 - Engenharia de Confiabilidade de Site
 - Consultoria em Tecnologia da Informação
-- Desenvolvimento Frontend
 - Suporte Técnico
 - Por hobbie, Manuteção e montagem de microcomputadores
 
