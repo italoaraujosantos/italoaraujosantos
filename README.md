@@ -18,7 +18,7 @@ Principais certificações obtidas:
  • Gremlin Certified Chaos Engineering Professional<br>
  • Gremlin Enterprise Chaos Enginering Certifield<br>
 
-Habilidades Técnicas:
+Habilidades Técnicas:<br>
  • Java<br>
  • SpringBoot Framwork<br>
  • JPA<br>
@@ -34,7 +34,7 @@ Habilidades Técnicas:
  • CI/CD<br>
  • AWS<br>
 
-Soft Skills:
+Soft Skills:<br>
  • Aprendizado autônomo<br>
  • Organizado<br>
  • Bom em resolução de problemas<br>
