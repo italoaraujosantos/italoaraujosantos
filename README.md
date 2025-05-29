@@ -2,18 +2,42 @@
 ## Meu nome é Ítalo Araujo
 
 ## Perfil profissional
-*Me chamo Ítalo Araújo Chaves, formado em Ciência da Computação, e hoje atuando como Engenheiro de Confialibilidade de Site. Possuo mais de 12 anos na área de Tecnologia da
-Informação, tendo atuado em Organizações Não Govertamentais (ONG), empresas da área Paraestatal, Financeira e Multinacionais. Por ter esse background tão diverso posso contribuir de
-várias formas para a evolução da empresa. <br>
-Me considero uma pessoa bem atualizada e curiosa, por isso estou sempre atento ao mundo de novas tecnologias, o que fez com que eu obtivesse quatro certificações, sendo uma de Cloud
-Computing e outras três de Chaos Engineering (AWS /Gremlin). <br>
-Sei atuar com aqueles que não entendem a respeito da área, por isso tenho a capacidade de transmitir conceitos técnicos complexos em linguagem compreensível. Isso faz com que eu consiga
-lidar com todos os níveis hierárquicos e pessoas de outras áreas. <br>
-Principais certificações obtidas: <br>
- AWS Certified Cloud Practitioner <br>
- Gremlin Certified Chaos Engineering Practitioner <br>
- Gremlin Certified Chaos Engineering Professional <br>
- Gremlin Enterprise Chaos Enginering Certifield <br>
+💻 Desenvolvedor Full Stack Java | Engenheiro de Confiabilidade de Site | +12 anos de experiência em TI<br>
+
+Sou Desenvolvedor Full Stack Java, formado em Ciência da Computação pela Universidade Católica de Brasília (2021), com mais de 12 anos de experiência na área de Tecnologia da Informação. Ao longo da minha trajetória, atuei como Desenvolvedor Fullstack e Engenheiro de Confiabilidade de Site, passando por setores como Organizações Não Governamentais (ONGs), empresas Paraestatais, Financeiras, Bancárias e Multinacionais.<br>
+
+Minha experiência diversificada me permite trazer uma visão ampla e estratégica para os desafios tecnológicos, contribuindo ativamente para a evolução das empresas onde atuo. Sou um profissional curioso e atualizado, sempre acompanhando as tendências do setor, o que me levou a conquistar quatro certificações: uma em Cloud Computing e três em Chaos Engineering (AWS/Gremlin).<br>
+
+Além da expertise técnica, destaco minha habilidade em traduzir conceitos complexos para diferentes públicos, facilitando a comunicação entre times técnicos e não técnicos. Isso me permite colaborar de forma eficaz com todos os níveis hierárquicos e áreas da empresa, impulsionando a inovação e a entrega de soluções de alto impacto.<br>
+
+🚀 Sempre em busca de novos desafios e oportunidades para gerar valor através da tecnologia!<br>
+
+Principais certificações obtidas:
+ • AWS Certified Cloud Practitioner
+ • Gremlin Certified Chaos Engineering Practitioner
+ • Gremlin Certified Chaos Engineering Professional
+ • Gremlin Enterprise Chaos Enginering Certifield
+
+Habilidades Técnicas:
+ • Java
+ • SpringBoot Framwork
+ • JPA
+ • Hibernate
+ • Micro Serviços
+ • Javascript
+ • Typescrilpt
+ • ANGULAR
+ • Python
+ • ShellScript 
+ • Git
+ • Linux
+ • CI/CD
+ • AWS
+
+Soft Skills:
+ • Aprendizado autônomo
+ • Organizado
+ • Bom em resolução de problemas
 
 ## Atuação em:
 - Desenvolvimento Fullstack ANGULAR / Java
