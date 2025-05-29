@@ -13,31 +13,31 @@ Além da expertise técnica, destaco minha habilidade em traduzir conceitos comp
 🚀 Sempre em busca de novos desafios e oportunidades para gerar valor através da tecnologia!<br>
 
 Principais certificações obtidas:
- • AWS Certified Cloud Practitioner
- • Gremlin Certified Chaos Engineering Practitioner
- • Gremlin Certified Chaos Engineering Professional
- • Gremlin Enterprise Chaos Enginering Certifield
+ • AWS Certified Cloud Practitioner<br>
+ • Gremlin Certified Chaos Engineering Practitioner<br>
+ • Gremlin Certified Chaos Engineering Professional<br>
+ • Gremlin Enterprise Chaos Enginering Certifield<br>
 
 Habilidades Técnicas:
- • Java
- • SpringBoot Framwork
- • JPA
- • Hibernate
- • Micro Serviços
- • Javascript
- • Typescrilpt
- • ANGULAR
- • Python
- • ShellScript 
- • Git
- • Linux
- • CI/CD
- • AWS
+ • Java<br>
+ • SpringBoot Framwork<br>
+ • JPA<br>
+ • Hibernate<br>
+ • Micro Serviços<br>
+ • Javascript<br>
+ • Typescrilpt<br>
+ • ANGULAR<br>
+ • Python<br>
+ • ShellScript<br>
+ • Git<br>
+ • Linux<br>
+ • CI/CD<br>
+ • AWS<br>
 
 Soft Skills:
- • Aprendizado autônomo
- • Organizado
- • Bom em resolução de problemas
+ • Aprendizado autônomo<br>
+ • Organizado<br>
+ • Bom em resolução de problemas<br>
 
 ## Atuação em:
 - Desenvolvimento Fullstack ANGULAR / Java
