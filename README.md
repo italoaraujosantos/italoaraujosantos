@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Meu nome é Ítalo Araujo
+## Meu nome é Ítalo Araujo Chaves
 
 ## Perfil profissional
 💻 Desenvolvedor Full Stack Java | Engenheiro de Confiabilidade de Site | +12 anos de experiência em TI<br>
