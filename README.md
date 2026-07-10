@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ## Meu nome é Ítalo Araujo Chaves
 
 ## Perfil profissional
