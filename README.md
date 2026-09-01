@@ -2,7 +2,7 @@
 ## Meu nome é Ítalo Araujo Chaves
 
 ## Perfil profissional
-💻 Desenvolvedor Java | Engenheiro de Confiabilidade de Site | +12 anos de experiência em TI<br>
+💻 Desenvolvedor Full Stack Java | Engenheiro de Confiabilidade de Site | +12 anos de experiência em TI<br>
 
 Sou Desenvolvedor Full Stack Java, formado em Ciência da Computação pela Universidade Católica de Brasília (2021), com mais de 12 anos de experiência na área de Tecnologia da Informação. Ao longo da minha trajetória, atuei como Desenvolvedor Fullstack e Engenheiro de Confiabilidade de Site, passando por setores como Organizações Não Governamentais (ONGs), empresas Paraestatais, Financeiras, Bancárias e Multinacionais.<br>
 
